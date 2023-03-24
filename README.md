@@ -1,3 +1,5 @@
+[![CodeScene Code Health](https://staging.codescene.io/projects/36620/status-badges/code-health)](https://staging.codescene.io/projects/36620)
+
 ## Arthas
 
 ![arthas](site/src/site/sphinx/arthas.png)
